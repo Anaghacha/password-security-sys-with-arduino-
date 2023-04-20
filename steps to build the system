@@ -1,0 +1,17 @@
+Step 1: Connecting 4*3 Keypad
+First of all, we will make a connection to the 4×3 Keypad. For connecting the keypad with the Arduino we are using digital pins D2 to D8. Connect all 3pins of col. Of keypad to D2, D3, D4 and row pins to D5, D6, D7, and D8 of arduino.
+
+Step 2: Connecting Servo motor
+Connect the grnd of servo to grnd of arduino, VCC to VCC of arduino , the o/p pin to D9 of arduino 
+
+Step 4: Connect Buzzer
+Connect the +ve terminal of the buzzer to D9 of arduino as it’s the o/p pin and grnd the –ve terminal.
+
+Step 3: Connecting L.C.D 
+To wire your LCD screen to your Arduino, connect the following pins:
+LCD SDA pin to SDA pin of arduino
+LCD SCL pin to SCL pin of arduino
+LCD VCC pin to VCC pin of arduino
+LCD grnd pin to grnd of arduino
+
+Step 4: Programming Arduino:
