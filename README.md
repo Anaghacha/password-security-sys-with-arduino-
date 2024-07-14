@@ -1,14 +1,14 @@
-### Brief Description
-
-This GitHub repository contains the source code and documentation for a password security system using Arduino. The project demonstrates an electronic lock system designed for home security, featuring a keypad, LCD, and other components to detect intruders and send alerts. This system enhances home safety with cost-efficient wireless communication, combining multiple modern security features into a single lock mechanism.
-
-You can view the repository [here](https://github.com/Anaghacha/password-security-sys-with-arduino-).
 
 ### README for password-security-sys-with-arduino
 
 # Password Security System with Arduino
+### Brief Description
 
-This repository contains the code and documentation for a password-based security system using Arduino. The system enhances home security by using a keypad, LCD, and other components to detect intruders and send alerts.
+This GitHub repository contains the source code and documentation for a password security system using Arduino. The project demonstrates an electronic lock system designed for home security, featuring a keypad, LCD, and other components to detect intruders and send alerts. This system enhances home safety with cost-efficient wireless communication, combining multiple modern security features into a single lock mechanism.
+
+
+
+
 
 ## Description
 
